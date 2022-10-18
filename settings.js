@@ -54,10 +54,10 @@ global.themeemoji = "📩" //ur theme emoji
 global.packname = "𝓘𝓜𝓜𝓐ᵇᵒʸ😁 Bot" //ur sticker watermark packname
 global.author = "𝓘𝓜𝓜𝓐ᵇᵒʸ😁" //ur sticker watermark author
 global.footer = "𝓘𝓜𝓜𝓐ᵇᵒʸ😁"
-global.aliveimg ="https://dragon.online-convert.com/download-file/ba55976c-b7ab-4daa-9df0-da0c71c23fc9/c0c9818f-f7c9-4278-bc99-034a1e6f8c6d"
-global.allmenuimg ="https://dragon.online-convert.com/download-file/ba55976c-b7ab-4daa-9df0-da0c71c23fc9/c0c9818f-f7c9-4278-bc99-034a1e6f8c6d"
-global.welcomeimg= "https://dragon.online-convert.com/download-file/ba55976c-b7ab-4daa-9df0-da0c71c23fc9/c0c9818f-f7c9-4278-bc99-034a1e6f8c6d"
-global.gbyeimg = "https://dragon.online-convert.com/download-file/ba55976c-b7ab-4daa-9df0-da0c71c23fc9/c0c9818f-f7c9-4278-bc99-034a1e6f8c6d"
+global.aliveimg ="https://telegra.ph/file/49364e5ed647e576f3df7.jpg"
+global.allmenuimg ="https://telegra.ph/file/49364e5ed647e576f3df7.jpg"
+global.welcomeimg= "https://telegra.ph/file/49364e5ed647e576f3df7.jpg"
+global.gbyeimg = "https://telegra.ph/file/49364e5ed647e576f3df7.jpg"
 global.alivemsg = "copy කල හැක සම කල නොහැක. ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
 
 //BOT MEDIAS
